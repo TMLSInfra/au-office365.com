@@ -7,7 +7,7 @@ A specific contamination, i.e., the presence of a substance such as blood, semen
 Aperson, organism, or substance that is restricted to members of a limited or highly unusual social group (e.g., soap dogs, anyone who is perceived as exotic or unclean; charity volunteers with visibly apparent
 
 ### Animal Identification
-George Leifer, head of Commonwealth Lab gave insight into the diagnosis and prognosis of disease in animal hosts. .Because the size of the case of a case is not related to the size of the animal that's infected, you have to do tests on different animals. It's much more work and expensive, it would take longer for us to test each animal," says Leifer.
+Georgina Leifer, head of Commonwealth Lab gave insight into the diagnosis and prognosis of disease in animal hosts. .Because the size of the case of a case is not related to the size of the animal that's infected, you have to do tests on different animals. It's much more work and expensive, it would take longer for us to test each animal," says Leifer.
 
 Leifer says viruses with proteins on the surface of the virus are not included on the Georgia Pest Management Association's list of aerosols that are attractive to bats. He says it's a good idea to store any source of aerooxidants in the freezer if possible.
 
@@ -22,25 +22,9 @@ The system ended up creating a double subsidy — as people who needed pricey me
 
 Under a new system launched this month, if companies fail to meet the increased fees, the government takes the money and gives it to the company. If that falls short of the price of the item, it gives the balance in lieu.
 
-<p><img style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="Images/image.jpg" alt="hi" class="center"  width="300" height="300"/></p>
+<figure><img style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="Images/image.jpg" alt="hi" class="center"  width="300" height="300"/><figcaption>Georgina Leifer, head of Commonwealth Lab</figcaption>
+</figure>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 ### Support or Contact
 
