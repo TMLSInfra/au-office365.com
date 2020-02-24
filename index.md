@@ -22,7 +22,7 @@ The system ended up creating a double subsidy — as people who needed pricey me
 
 Under a new system launched this month, if companies fail to meet the increased fees, the government takes the money and gives it to the company. If that falls short of the price of the item, it gives the balance in lieu.
 
-<figure><img style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="Images/image.jpg" alt="hi" class="center"  width="300" height="300"/><figcaption>Georgina Leifer, head of Commonwealth Lab</figcaption>
+<figure><img style="font-style: italic; display: block; margin-left: auto; margin-right: auto; width: 50%;" src="Images/image.jpg" alt="hi" class="center"  width="300" height="300"/><figcaption>Georgina Leifer, head of Commonwealth Lab</figcaption>
 </figure>
 
 
