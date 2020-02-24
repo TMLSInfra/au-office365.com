@@ -1,3 +1,11 @@
+<script>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+</script>
 ## Australian General Flu Prevention Practices
 
 We do not recommend surgical masks for healthy members of the public.
@@ -22,7 +30,7 @@ The system ended up creating a double subsidy — as people who needed pricey me
 
 Under a new system launched this month, if companies fail to meet the increased fees, the government takes the money and gives it to the company. If that falls short of the price of the item, it gives the balance in lieu.
 
-<p><img src="Images/image.jpg" alt="hi" class="inline"  width="300" height="300"/></p>
+<p><img src="Images/image.jpg" alt="hi" class="center"  width="300" height="300"/></p>
 
 ```markdown
 Syntax highlighted code block
